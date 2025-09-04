@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "moment": "2.29.1",
-    "ua-parser-js": "0.7.30",
+    "moment": "2.29.4",
+    "ua-parser-js": "0.7.33",
     "react-scripts": "5.0.1"
   },
   "description": "SCS Examples to be cautious of... and protected by Checkmarx for...",
